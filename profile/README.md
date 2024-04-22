@@ -1,5 +1,8 @@
 # BLOPUP - Blood Pressure Under Pressure
 
+<img src='../assets/cs_inline_blopup_revamp1.png' />
+<img src='../assets/cs_inline_blopup_revamp2.png' />
+
 Welcome to the home page for the BLOPUP project. Here you can find user documentation for the project, the app and the tech stack.
 
 ## What is Blopup?
