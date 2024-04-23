@@ -22,7 +22,7 @@ Blopup exists to gather patient data as screenings happen, where a mobile app ca
 ## Tech Stuff
 
 ### Tech Stack
-<img style="display:block; margin:0 auto" src='https://github.com/BLOPUP-UPC/.github/blob/977801e3f7b7a30efc46433c286b3c2c9bf6134d/profile/blopup-logo.png' width=300>
+<img style="display:block; margin:0 auto" src='https://github.com/BLOPUP-UPC/.github/blob/b1f2cfadf62ebcc71831db4f5c482c5a8992a2d2/profile/tech-stack.png' width=480>
 The mobile app is used as a companion for nurses performing visits, to record patient data and track its evolution over time. The backend is a tool for doctors to review individual patient data and potentially edit it, based on their expertise.
 
 ### Getting Started
