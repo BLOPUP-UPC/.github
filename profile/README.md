@@ -1,6 +1,8 @@
 # BLOPUP - Blood Pressure Under Pressure
 
-![Four screens from the Blopup Android app](cs_inline_blopup_revamp1.png)
+<img src="https://github.com/favicon.ico" height="240" width="480">
+
+![Four screens from the Blopup Android app](https://github.com/BLOPUP-UPC/.github/blob/d9598022e179b5c5bc0cf269a8decb3a2dfa0562/profile/cs_inline_blopup_revamp1.png)
 ![A landscape view of the patient graph from the Blopup Android app](cs_inline_blopup_revamp2.png)
 
 Welcome to the home page for the BLOPUP project. Here you can find user documentation for the project, the app and the tech stack.
