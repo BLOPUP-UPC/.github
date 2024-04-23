@@ -1,5 +1,7 @@
 # BLOPUP - Blood Pressure Under Pressure
 
+![Logo for the Blopup initiative](https://github.com/BLOPUP-UPC/.github/blob/977801e3f7b7a30efc46433c286b3c2c9bf6134d/profile/blopup-logo.png)
+
 ![Four screens from the Blopup Android app](https://github.com/BLOPUP-UPC/.github/blob/d9598022e179b5c5bc0cf269a8decb3a2dfa0562/profile/cs_inline_blopup_revamp1.png)
 ![A landscape view of the patient graph from the Blopup Android app](https://github.com/BLOPUP-UPC/.github/blob/87eedd9e7952f7cd1603bff84e6e46d7519f0be6/profile/cs_inline_blopup_revamp2.png)
 
