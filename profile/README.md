@@ -29,7 +29,7 @@ The mobile app is used as a companion for nurses performing visits, to record pa
 
 #### The mobile app
 - For a full breakdown of how the app works, check out the [mobile app repository](https://github.com/BLOPUP-UPC/blopup-android-app). 
-- [User Guide](https://blopup-upc.github.io/blopup-android-user-guide/readme-es.html)
+- [User Guide](https://blopup-upc.github.io/blopup-android-user-guide/)
 
 #### The OpenMRS backend
 - For a full breakdown of how the backend works, check out the [backend repository](https://github.com/BLOPUP-UPC/blopup-openmrs-distribution).
